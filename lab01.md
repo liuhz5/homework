@@ -40,6 +40,7 @@ III.赫拉克里特斯(Heracreterus)
 
 
 ![](https://imgsa.baidu.com/forum/w%3D298/sign=84411e785c6034a829e2bf88f31249d9/7622a71ea8d3fd1f5c503543304e251f94ca5f93.jpg)
+
 V.柏拉图  
 1.关心的永恒不变的事物与“流动”事物之间的关系，并试图将其加以联系。  
 2.追求永恒的"真善美"。  
