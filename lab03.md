@@ -1,13 +1,10 @@
-# 互联网世界的缔造者之一——比尔·乔伊
+# 互联网世界的缔造者之一——比尔·乔伊  
 
 
-<center>
-<img src=https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1539180219643&di=bf82e78634602217876fc5271c2ccdf0&imgtype=0&src=http%3A%2F%2Fwww.polymer.cn%2FUploadFile%2FIndustryNewsPic%2F20170823145111_9572.jpeg>  
-</center>    
-  
-  
-&ensp;&ensp;&ensp;可能你不并熟悉比尔·乔伊这个名字,但你一定知道那家市值2000亿美元，差点吞并苹果的帝国企业 Sun 。他是这家帝国企业的创始人之一，并担任首席科学家，直到2003年才离开；风靡全球的编程语言java，也是由比尔·乔伊比尔主持整个团队开发并推向市场;效率极高的vi编辑器的创造者就是比尔·乔伊。有人评价他说：“没有他拼命敲代码的10000小时，就没有我们的互联网世界。”没错，比尔·乔伊是公认的计算机界的爱迪生。
-  
+![](http://www.polymer.cn/UploadFile/IndustryNewsPic/20170823145111_9572.jpeg)  
+
+&ensp;&ensp;&ensp;可能你不并熟悉比尔·乔伊这个名字,但你一定知道那家市值2000亿美元，差点吞并苹果的帝国企业 Sun 。他是这家帝国企业的创始人之一，并担任首席科学家，直到2003年才离开；风靡全球的编程语言java，也是由比尔·乔伊比尔主持整个团队开发并推向市场;效率极高的vi编辑器的创造者就是比尔·乔伊。有人评价他说：“没有他拼命敲代码的10000小时，就没有我们的互联网世界。”没错，比尔·乔伊是公认的计算机界的爱迪生。  
+
 ![](https://img.huxiucdn.com/article/content/201605/01/1309416941.png?imageMogr2/strip/interlace/1/quality/85/format/png)
 
 ## 一、比尔·乔伊生平简介
