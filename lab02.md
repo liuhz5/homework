@@ -2,6 +2,7 @@
 ## 一、安装Construct 2
 如果你还没有construct 2,请前往官网获取最新版本的Construct 2，选择free版本就可以满足我们制作枪战小游戏的需要。Construct 2编辑器仅适用于Windows，但是您制作的游戏可以在任何地方运行，这使得游戏的便携性、传播性大大提高。
 ## 二、开始制作游戏
+
 ### 新建游戏
 &ensp;&ensp;&ensp;现在你便拥有Construct 2，打开它并点击文件按钮，然后选择“新建”。  
 ![](http://gamerboom.com/wp-content/uploads/2012/05/file-newfrom-scirra.com_.png)
