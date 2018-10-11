@@ -76,5 +76,7 @@
 ### 添加活动
 &ensp;&ensp;&ensp;首先，单击顶部的“ 事件表1”选项卡以切换到“ 事件”表编辑器，并对对象添加活动，添加活动后表格如图：
 
+![](https://github.com/liuhz5/hz-homework/blob/master/QQ%E5%9B%BE%E7%89%8720181011134708.jpg)
 
 ## 成果展示：
+![](https://github.com/liuhz5/hz-homework/blob/master/QQ%E5%9B%BE%E7%89%8720181011133626.gif?raw=true)
