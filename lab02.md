@@ -27,6 +27,7 @@
 
 &ensp;&ensp;&ensp;修改后的层面显示如下:
 
+
 ![](http://gamerboom.com/wp-content/uploads/2012/05/layers-barfrom-scirra.png)
 
 ### 添加输入对象
