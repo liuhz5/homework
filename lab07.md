@@ -1,10 +1,19 @@
+# 机器语言编程
+
+
+
+
+
+
+
 任务 1：简单程序
 
 （1）打开网页 The PIPPIN User’s Guide ，然后输入 Program 1：Add 2 number
 
 （2）点step after step。观察并回答下面问题：
 
-PC，IR 寄存器的作用。
+
+Ⅰ.PC，IR 寄存器的作用。
 
 答：
 
@@ -18,4 +27,4 @@ ACC 寄存器的全称与作用。
 
 用“LOD #3”指令的执行过程，解释Fetch-Execute周期。
 
-答：PC 根据地址从RAM取出指令LOD #3 
+答：PC 根据地址从RAM取出指令LOD #3
